@@ -1,6 +1,12 @@
 # Communication System Lab
 
-Labs and final project for **Communication System Laboratory** (通訊系統實驗) at National Tsing Hua University, Fall 2024. A software-defined radio course: transmitters and receivers are built in **LabVIEW** and run over the air on **NI USRP B210** radios.
+My labs and final project for **Communication System Laboratory** (通訊系統實驗) at National Tsing Hua University (Fall 2024). A software-defined radio course: transmitters and receivers are built in **LabVIEW** and run over the air on **NI USRP B210** radios.
+
+- **Instructor:** Prof. Shin-Lin Shieh (謝欣霖)
+- **Author:** Yu-Shuo Chang (張育碩)
+- **Lab partner:** 蘇采宜
+
+## Labs at a glance
 
 | Folder | Topic | My blocks |
 |---|---|---|
@@ -20,7 +26,3 @@ Every lab folder has `report.pdf`, a lab report written with my lab partner.
 - LabVIEW
 - NI USRP B210
 - MATLAB / Simulink
-
-## Author
-
-Yu-Shuo Chang (張育碩), Department of Electrical Engineering, NTHU
